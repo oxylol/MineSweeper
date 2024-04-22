@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\filip\source\repos\minesweeper\minesweeper\Source.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\filip\source\repos\minesweeper\minesweeper\Source.cpp(605,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  minesweeper.vcxproj -> C:\Users\filip\source\repos\minesweeper\x64\Debug\minesweeper.exe
